@@ -1,7 +1,7 @@
 /* 頁面資料定時儲存Storage */
 
 $(function() {
-
+  inputRead();
   setInterval(inputSave, 1000);
 });
 
